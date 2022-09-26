@@ -17,7 +17,7 @@ Default:
   unitToConvert: 'px',
   widthOfDesignLayout: 1920,
   unitPrecision: 5,
-  selectorBlackList: [],
+  selectorIncludeList: [],
   minPixelValue: 1,
   mediaQuery: false
 };
