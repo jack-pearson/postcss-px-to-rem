@@ -1,5 +1,5 @@
 {
-  "name": "postcss-px-to-rem",
+  "name": "@jack-pearson/postcss-px-to-rem",
   "description": "A CSS post-processor that converts px to rem.",
   "version": "1.0.0",
   "author": "jack-pearson",
